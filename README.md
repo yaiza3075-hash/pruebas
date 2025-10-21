@@ -1,2 +1,3 @@
-# pruebas
-ai y big data
+# proyecto nuevo
+autora: Yaiza Estévez
+descripción: pruebas
